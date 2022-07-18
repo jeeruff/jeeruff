@@ -2,7 +2,7 @@
 - 👀 I’m interested in sound design, music composition, emacs, gtd-
 - 🌱 I’m currently building atmos studio in Berlin
 - 💞️ I’m looking to collaborate on gamedev
-- 📫 How to reach me egoregor@keemail.me
+- 📫 How to reach me egor.egorkin@gmail.com
 
 <!---
 jeeruff/jeeruff is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
