@@ -1,7 +1,8 @@
 - 👋 I am @jeeruff, 
   - Solo Piccolo Flute of Berlin Philharmonic Orchestra
   - music producer 
-  - sound designer.
+  - sound designer
+  - vibe coder
 
 - 👀 I’m interested in sound design, music composition, linux, gnu/emacs, opensource
 
