@@ -2,7 +2,7 @@
   - Solo Piccolo Flute of Berlin Philharmonic Orchestra
   - music producer 
   - sound designer
-  - vibe coder
+  - cli nerd
 
 - 👀 I’m interested in sound design, music composition, linux, gnu/emacs, opensource
 
