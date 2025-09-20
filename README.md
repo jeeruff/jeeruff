@@ -1,12 +1,8 @@
-- 👋 I am @jeeruff, 
+I am @jeeruff, 
   - Solo Piccolo Flute of Berlin Philharmonic Orchestra
   - music producer 
   - sound designer
   - cli nerd
-
-- 👀 I’m interested in sound design, music composition, linux, gnu/emacs, opensource
-
-- 💞️ I’m looking to collaborate on game/dev and music making
 
 - 📫 How to reach me jeeruff@gmail.com
 
